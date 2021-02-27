@@ -6,6 +6,6 @@ miclase {
 var = "Hola Mundo"
 
 un metodo() {
-	return 0;
+	return 1;
 }
 }
